@@ -31,15 +31,11 @@ VRP（通用路由平台）是Versatile Routing Platform的简称，它是华为
 
 用户权限0～15共16个级别，默认3级就可以操作所有的命令。用户权限与提升命令级别的功能一起使用，可以对权限进行细分。
 
-![](https://raw.githubusercontent.com/entercoder1993/images/main/img/20220608163129.png)
-
 VRP支持不完整关键字输入和在线帮助`?`命令。
 
 ## 登录设备
 
-通过Console口登录，需要对端口进行参数配置，如图。
-
-![](https://raw.githubusercontent.com/entercoder1993/images/main/img/20220608163806.png)
+通过Console口登录。
 
 通过Telnet登录设备，需要对设备配置启用Telnet服务。
 
